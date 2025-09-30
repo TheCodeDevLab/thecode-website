@@ -47,8 +47,8 @@
       <p>
         Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter à :
         <br/>
-        <a class="contact-link" href="mailto:thecodedebonofactory@gmail.com">
-          📧 thecodedebonofactory@gmail.com
+        <a class="contact-link" href="mailto:julsql1@gmail.com">
+          📧 julsql1@gmail.com
         </a>
       </p>
     </section>
@@ -130,6 +130,11 @@ section {
     box-shadow: none;
     margin: auto;
     padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+    margin-bottom: 30px;
   }
 }
 </style>
