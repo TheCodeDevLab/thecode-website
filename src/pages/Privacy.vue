@@ -47,8 +47,8 @@
         <section>
           <h2>{{ t('privacy_section_contact') }}</h2>
           <p>{{ t('privacy_section_contact_p') }}</p>
-          <a class="contact-link" href="mailto:julsql1@gmail.com">
-            📧 julsql1@gmail.com
+          <a class="contact-link" href="mailto:contact@thecode.julsql.fr">
+            📧 contact@thecode.julsql.fr
           </a>
         </section>
       </div>

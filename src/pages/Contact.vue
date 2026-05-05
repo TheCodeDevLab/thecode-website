@@ -13,13 +13,13 @@
     <div class="content-container fadeIn">
       <div class="cards">
 
-        <a class="contact-card" href="mailto:julsql1@gmail.com">
+        <a class="contact-card" href="mailto:contact@thecode.julsql.fr">
           <div class="contact-card-icon">
             <img src="https://img.icons8.com/?size=100&id=LPcVDft9Isqt&format=png&color=000000" alt=""/>
           </div>
           <h2>{{ t('contact_email_h') }}</h2>
           <p>{{ t('contact_email_p') }}</p>
-          <span class="contact-card-link">julsql1@gmail.com</span>
+          <span class="contact-card-link">contact@thecode.julsql.fr</span>
         </a>
 
         <a class="contact-card" href="https://github.com/TheCodeDevLab" target="_blank" rel="noopener">
